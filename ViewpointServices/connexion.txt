@@ -1,0 +1,1 @@
+test de connectivité du repo avec git en ligne de commande
